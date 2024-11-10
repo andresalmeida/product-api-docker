@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background-color: #111927; /* Fondo principal */
+  color: #ffffff; /* Texto blanco */
+}
+
+h4, h5 {
+  color: #9FEF04; /* Títulos con verde destacado */
+}
+
+.MuiDrawer-paper {
+  background-color: #273A54 !important;
+}
+
+.active-menu-item {
+  background-color: #9FEF04 !important;
+  color: #000 !important;
+}
